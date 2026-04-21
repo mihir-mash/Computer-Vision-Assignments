@@ -37,6 +37,11 @@ The repository includes the following assignments:
 
   * `Image_Colorization_With_GANs.ipynb`
     Image colorization using Generative Adversarial Networks (GANs).
+    
+* **Assignment 7**
+
+  * `CelebA_GAN_Generation.ipynb`
+    Implementation of a Generative Adversarial Network (GAN) to synthesize realistic human faces using the CelebA dataset.
 
 * **Assignment 9**
 
