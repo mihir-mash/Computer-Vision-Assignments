@@ -43,6 +43,11 @@ The repository includes the following assignments:
   * `CelebA_GAN_Generation.ipynb`
     Implementation of a Generative Adversarial Network (GAN) to synthesize realistic human faces using the CelebA dataset.
 
+* **Assignment 8**
+
+  * `Image Segmentation using U-Net, FPN and PSPNet.ipynb`
+    Implements semantic image segmentation using U-Net, FPN and PSPNet, with performance comparison using IoU and Dice metrics.
+
 * **Assignment 9**
 
   * `human_pose_estimation_with_movenet.ipynb`
